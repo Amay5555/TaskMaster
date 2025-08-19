@@ -1,0 +1,11 @@
+.vscode/
+/media/
+/static/
+/staticfiles/
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+local_settings.py
+*.bak
